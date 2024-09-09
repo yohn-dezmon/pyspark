@@ -1,0 +1,2 @@
+- To work with PySpark you need to start a Spark Session
+- stop at https://youtu.be/_C8kWso4ne4?t=830

@@ -16,4 +16,5 @@
 
 3. Download Spark
 
--
+- download winutils (hadoop)
+- download spark
