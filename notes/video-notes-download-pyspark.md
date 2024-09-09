@@ -2,6 +2,14 @@
 
 - https://www.youtube.com/watch?v=OmcSTQVkrvo
 
+# Virtualenv?
+
+No virtualenv used for now just:
+
+- `pip install pyspark`
+- `pip install pandas`
+- `pip install jupyterlab`
+
 # Steps
 
 1. download JDK
